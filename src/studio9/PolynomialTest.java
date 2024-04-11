@@ -11,6 +11,8 @@ public class PolynomialTest {
 	private Polynomial p2 = synthPoly(new double[] {  7,  5, -2,  5});
 	private Polynomial p3 = synthPoly(new double[] { -1,  2,  3, -4, 5});
 	private Random random = new Random();
+	
+	
 
 	/**
 	 * Helper method to generate a Polynomial from an array of doubles.
